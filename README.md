@@ -14,13 +14,12 @@ How to setup
 How to Use This API ( via Postman )
 
 1. Register
-![Register](images/Register.png)
+![Register]([images/Register.png](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/Register.png))
 
 2. Login
 ![Login](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/Login.png)
 
-3. Get the response Token from Login
-![GetAllBook](images/GetAllBook.jpg)
+3. Get the response Token from Login. Add add it in the Authorization Bearer Token in Postman
 
 4. Add the Token in Postman
-![GetAllBook](images/GetAllBook.jpg)
+![GetAllBook]([images/GetAllBook.jpg](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/GetAllBooks.png))
