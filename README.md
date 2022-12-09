@@ -21,5 +21,5 @@ How to Use This API ( via Postman )
 
 3. Get the response Token from Login. Add add it in the Authorization Bearer Token in Postman
 
-4. Add the Token in Postman
-![GetAllBook]([images/GetAllBook.jpg](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/GetAllBooks.png))
+4. You should now be able to access the API endpoint
+![GetAllBook]([https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/GetAllBooks.png))
