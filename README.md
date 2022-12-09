@@ -1,4 +1,5 @@
 # bookstore-api
+This is the backend api of bookstore https://github.com/salustianogonzalesjr/bookstore-vue
 
 How to setup
 - git clone https://github.com/salustianogonzalesjr/bookstore-api.git
