@@ -17,7 +17,7 @@ How to Use This API ( via Postman )
 ![Register](images/Register.png)
 
 2. Login
-![Login](images/Login.png)
+![Login](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/Login.png)
 
 3. Get the response Token from Login
 ![GetAllBook](images/GetAllBook.jpg)
