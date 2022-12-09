@@ -22,4 +22,15 @@ How to Use This API ( via Postman )
 3. Get the response Token from Login. Add add it in the Authorization Bearer Token in Postman
 
 4. You should now be able to access the API endpoint
+CREATE 
+![Create](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/CreateBook.png)
+
+READ
 ![Register](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/GetAllBooks.png)
+
+UPDATE 
+![Update](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/UpdateBook.png)
+
+DELETE 
+![Delete](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/DeleteBook.png)
+
