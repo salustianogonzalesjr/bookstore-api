@@ -34,3 +34,6 @@ UPDATE
 DELETE 
 ![Delete](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/DeleteBook.png)
 
+
+# Dummy JSON API Wrapper Interface
+![Dummy JSON API Wrapper Interface](https://github.com/salustianogonzalesjr/bookstore-api/blob/main/resources/images/json_api_interface_wrapper.png)
