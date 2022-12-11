@@ -31,4 +31,9 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'dummyjson' => [
+        'url' => env('DUMMY_JSON_API_URL', 'https://dummyjson.com'),
+        'resource' =>  env('DUMMY_JSON_API_RESOURCE', 'products'),
+    ],    
+
 ];
