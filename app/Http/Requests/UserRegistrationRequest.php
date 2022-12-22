@@ -29,11 +29,5 @@ class UserRegistrationRequest extends FormRequest
             'password' => 'required|min:6',   
             'confirm_password' => 'required|same:password',         
         ];
-
-        // 'name' => 'required',
-        // 'email' => 'required|email',
-        // 'password' => 'required',
-        // 'confirm_password' => 'required|same:password',
-
     }
 }
